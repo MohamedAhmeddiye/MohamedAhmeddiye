@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/mohammed-ahmed-052769239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedahmed" height="30" width="40" /></a>
 </p> <br>
 <p align="left">
-<a href="medkoumba@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/emoji/96/e-mail.png" alt="mohammedahmed" height="30" width="40" /></a>
+<a href="mailto:medkoumba@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/emoji/96/e-mail.png" alt="mohammedahmed" height="30" width="40" /></a>
 </p><br>
 <p align="left">
 <a href="tel:+22244121245"target="blank"><img align="center" src="https://img.icons8.com/color/48/ringer-volume.png" alt="mohammedahmed" height="30" width="40" /></a>
