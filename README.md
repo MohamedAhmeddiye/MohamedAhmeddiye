@@ -1,6 +1,6 @@
 
-[![MasterHead](https://align.ly/img/data-analysis.gif)](medahmedportfolio.vercel.app)
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*zTV0EpmmZQdJRpVk.gif)](medahmedportfolio.vercel.app)
+<h1 align="center">Hello 👋, I'm Mohamed Ahmed</h1>
 <h3 align="center">Data Analysis | Specializing in Financial Accounting & Business Intelligence</h3>
 
 <img align = "right" alt = "Data Analisis" width="400" src="https://cdn.dribbble.com/users/2243198/screenshots/5791691/anim-5-800.gif">
@@ -29,7 +29,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammedahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedahmed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed-ahmed-052769239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedahmed" height="30" width="40" /></a>
+</p> <br>
+<p align="left">
+<a href="medkoumba@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/emoji/96/e-mail.png" alt="mohammedahmed" height="30" width="40" /></a>
+</p><br>
+<p align="left">
+<a href="tel:+22244121245"target="blank"><img align="center" src="https://img.icons8.com/color/48/ringer-volume.png" alt="mohammedahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
